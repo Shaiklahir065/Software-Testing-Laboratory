@@ -50,23 +50,6 @@ Write a python program to check the number is prime or not and inspect for failu
 ### Output:
 
         1.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         
             Enter a Value:2
             Prime Number
