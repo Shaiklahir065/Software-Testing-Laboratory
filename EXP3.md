@@ -39,14 +39,6 @@ Write a python program to check the number is prime or not and inspect for failu
         print("Enter a Positive Number") 
 
 
-
-
-
-
-
-
-
-
 ### Output:
 
         1.
