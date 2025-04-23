@@ -52,31 +52,31 @@ Write a python program to check the number is Armstrong number or not and inspec
 
 ### Output:
 
-Enter the element to be searched: -99
- Element is not present in array
-Test Case: Pass 
-
-Enter the element to be searched: element
- Enter a valid input!
-Test Case: fail
-
-Enter the element to be searched: 99 56
- Enter a valid input!
-Test Case: fail 
-
-
-Enter the element to be searched: @969
- Enter a valid input!
-Test Case: fail 
-
-
-Enter the element to be searched: -444 999
- Enter a valid input!
-Test Case: fail 
-
-Enter the element to be searched: 1001
- Element is not present in array
-Test Case: Pass
+        Enter the element to be searched: -99
+         Element is not present in array
+        Test Case: Pass 
+        
+        Enter the element to be searched: element
+         Enter a valid input!
+        Test Case: fail
+        
+        Enter the element to be searched: 99 56
+         Enter a valid input!
+        Test Case: fail 
+        
+        
+        Enter the element to be searched: @969
+         Enter a valid input!
+        Test Case: fail 
+        
+        
+        Enter the element to be searched: -444 999
+         Enter a valid input!
+        Test Case: fail 
+        
+        Enter the element to be searched: 1001
+         Element is not present in array
+        Test Case: Pass
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
